@@ -166,7 +166,7 @@ a{
     font-weight: 500;
 }
 
-@media (min-width:1440px){
+@media (min-width:838px){
     body{
         display: flex;
         flex-direction: column;
