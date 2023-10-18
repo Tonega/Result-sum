@@ -226,7 +226,7 @@ a{
     }
     .reaction{
         display: flex;
-        width: 280px;
+        width: 280px; 
         padding: 1rem;
     }
     .memory{
